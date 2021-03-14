@@ -9,9 +9,9 @@ from selenium.common.exceptions import NoSuchElementException
 
 url = "https://campusrecshop.usf.edu/booking"
 
-username = 'mckenzie225'
-email = 'mckenzie225@usf.edu'
-password = 'Sch001SUX!'
+username = '#your net Id'
+email = '#your email'
+password = '#your password'
 
 
 #Troubleshooter
